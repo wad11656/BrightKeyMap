@@ -28,4 +28,4 @@ If this is potentially useful to anyone out there, I assume there&#39;s modifica
 
 wad11656@gmail.com
 
-*(Credit: qwerty12's LaptopBrightnessSetter)*
+*(Credit: [qwerty12's LaptopBrightnessSetter](https://github.com/qwerty12/AutoHotkeyScripts/tree/master/LaptopBrightnessSetter))*
