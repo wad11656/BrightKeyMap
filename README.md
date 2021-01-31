@@ -6,7 +6,7 @@ An AutoHotkey-powered installer that configures which keys you want to press to 
 
 ## How to Use ##
 
-Enter Run the installer each time you want to re-map your keys. For function keys, just type "F" followed by the number (e.g., "F12"). You can reference [this list](https://gist.github.com/csharpforevermore/11348986) of special keys if needed.
+Run the installer each time you want to re-map your keys. For function keys, just type "F" followed by the number (e.g., "F12"). You can reference [this list](https://gist.github.com/csharpforevermore/11348986) of special keys if needed.
 
 ## How Does it Work/How to Edit? ##
 
