@@ -22,10 +22,10 @@ Make sure you configured the Keys correctly during setup. Reference [this list](
 
 If this is potentially useful to anyone out there, I assume there&#39;s modifications and incompatibilities people would like tweaked, so email me or create GitHub Issues, or download the AutoHotkey script from the repo and edit it yourself.
 
-*(Credit: qwerty12's LaptopBrightnessSetter)*
-
 2021 Wade Murdock
 
 [https://wadestechtrove.blogspot.com/](https://wadestechtrove.blogspot.com/)
 
 wad11656@gmail.com
+
+*(Credit: qwerty12's LaptopBrightnessSetter)*
