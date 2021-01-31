@@ -2,11 +2,11 @@
 
 ## What is it? ##
 
-An AutoHotkey-powered installer for Windows that configures which keys you want to press to adjust brightness, volume, and media (Play/Pause, Next track, Previous track).
+An AutoHotkey-powered installer for Windows that configures which keys you want to press to adjust brightness, volume, and/or media controls (Play/Pause, Next track, Previous track).
 
 ## How to Use ##
 
-Run the installer each time you want to re-map your keys. For function keys, just type "F" followed by the number (e.g., "F12"). You can reference [this list](https://gist.github.com/csharpforevermore/11348986) of special keys if needed.
+Run the installer each time you want to re-map your keys. For function keys, just type "F" followed by the number (e.g., "F12") during installation. You can reference [this list](https://gist.github.com/csharpforevermore/11348986) of special keys if needed.
 
 ## How Does it Work/How to Edit? ##
 
