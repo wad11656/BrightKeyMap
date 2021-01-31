@@ -2,7 +2,7 @@
 
 ## What is it? ##
 
-An AutoHotkey-powered installer that allows you to type in which keys you want to press to adjust brightness, volume, and media (Play/Pause, Next track, Previous track).
+An AutoHotkey-powered installer that configures which keys you want to press to adjust brightness, volume, and media (Play/Pause, Next track, Previous track).
 
 ## How to Use ##
 
