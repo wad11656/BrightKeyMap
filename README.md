@@ -17,7 +17,7 @@ A Windows Task is scheduled that runs `BrightKeyMap.exe` on logon of any user, w
 Install your latest hardware drivers. 
  - Make sure your hardware actually supports OS-level brightness adjustments (typically portable PC's).
     - If you have a desktop monitor, you probably need to adjust brightness using its physical buttons. Further brightness adjustments on desktop [and any other] monitors can be made with [f.lux](https://justgetflux.com/)'s `alt`+`PgUp`/`alt`+`PgDown` hotkeys.
- - Make sure you configured the Keys correctly during setup: Reference [this list](https://gist.github.com/csharpforevermore/11348986) and make sure you did not duplicate mapped keys (i.e., Don't map "F2" to "Volume Up" and "Play/Pause" for example).
+ - Make sure you configured the Keys correctly during setup: Reference [this list](https://gist.github.com/csharpforevermore/11348986) and make sure you did not duplicate mapped keys (i.e., Didn't map "F2" to 2 functions, like both "Volume Up" *and* "Play/Pause" for example).
 
 ## Requests ##
 
