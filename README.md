@@ -10,7 +10,7 @@ Run the installer each time you want to re-map your keys. For function keys, jus
 
 ## How Does it Work/How to Edit? ##
 
-A Windows Task is scheduled that runs `BrightKeyMap.exe`, which is a compiled executable of an `.ahk` AutoHotkey script. You can download and edit the `.ahk` from the repo.
+A Windows Task is scheduled that runs `BrightKeyMap.exe` on logon of any user, which is a compiled executable of an `.ahk` AutoHotkey script. You can download and edit the `.ahk` from the repo.
 
 ## Troubleshoot ##
 
