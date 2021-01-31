@@ -15,7 +15,7 @@ A Windows Task is scheduled that runs `BrightKeyMap.exe` on logon of any user, w
 ## Troubleshoot ##
 
 Install your latest hardware drivers. 
-Make sure your hardware actually supports OS-level brightness adjustments. (If you have a desktop monitor, you probably need to adjust brightness using the physical buttons.)
+Make sure your hardware actually supports OS-level brightness adjustments (typically portable PC's). (If you have a desktop monitor, you probably need to adjust brightness using its physical buttons.)
 Make sure you configured the Keys correctly during setup. Reference [this list](https://gist.github.com/csharpforevermore/11348986)) and make sure you did not duplicate mapped keys (i.e., Don't map "F2" to "Volume Up" and "Play/Pause" for example).
 
 ## Requests ##
