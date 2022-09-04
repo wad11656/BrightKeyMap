@@ -1,4 +1,5 @@
 # BrightKeyMap
+### _The actual download is on the [Releases](https://github.com/wad11656/BrightKeyMap/releases) page._ ###
 
 ## What is it? ##
 
