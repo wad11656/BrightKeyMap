@@ -40,11 +40,11 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "{app}\Uninstall"; Attribs: hidden
 
 [Files]
-Source: "Compiler\Ahk2Exe.exe"; DestDir: "{app}\Compiler";
-Source: "Compiler\ANSI 32-bit.bin"; DestDir: "{app}\Compiler";
-Source: "Compiler\AutoHotkeySC.bin"; DestDir: "{app}\Compiler";
-Source: "Compiler\Unicode 32-bit.bin"; DestDir: "{app}\Compiler";
-Source: "Compiler\Unicode 64-bit.bin"; DestDir: "{app}\Compiler";
+Source: "AHK_Compiler\Ahk2Exe.exe"; DestDir: "{app}\AHK_Compiler";
+Source: "AHK_Compiler\ANSI 32-bit.bin"; DestDir: "{app}\AHK_Compiler";
+Source: "AHK_Compiler\AutoHotkeySC.bin"; DestDir: "{app}\AHK_Compiler";
+Source: "AHK_Compiler\Unicode 32-bit.bin"; DestDir: "{app}\AHK_Compiler";
+Source: "AHK_Compiler\Unicode 64-bit.bin"; DestDir: "{app}\AHK_Compiler";
 Source: "blank_MappedKeys.ahk"; DestDir: "{app}"; Flags: ignoreversion
 Source: "brightness.ico"; DestDir: "{app}";
 Source: "MapBrightnessKeys.ps1"; DestDir: "{tmp}";
